@@ -19,7 +19,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "permissions": ["android.permissions.READ_EXTERNAL_STORAGE"]
+      
     },
     "web": {
       "bundler": "metro",
